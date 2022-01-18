@@ -1,4 +1,4 @@
-== Thermocouple ==
+### Reading a Thermocouple with a Raspberry Pi
 
 To read from the thermocouple, get a Maxim Integrated MAX6675 thermocouple
 sensor.  Connect SO pin on the 6675 to GPIO 9 (physical pin 21) on the
